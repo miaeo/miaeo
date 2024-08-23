@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">✿ linda e perfeita ✿</p>
+<p align="left">✿ Sou apaixonada por tecnologia e adoro aprender coisas novas. Atualmente, estou explorando o mundo do desenvolvimento web, brincando com HTML, CSS e quero dar meus primeiros passos em JavaScript.
+
+Embora esteja no começo da minha carreira com TI, estou super animada para colaborar em projetos legais, aprender com a comunidade e compartilhar o que sei. :) </p>
 
 ###
 
