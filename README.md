@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✿ Sou apaixonada por tecnologia e adoro aprender coisas novas. Atualmente, estou explorando o mundo do desenvolvimento web, brincando com HTML, CSS e quero dar meus primeiros passos em JavaScript.
+<p align="left">✿ Sou apaixonada por tecnologia e adoro aprender coisas novas. Atualmente, estou explorando o mundo do desenvolvimento web, brincando com HTML, CSS e dando meus primeiros passos com java e typescript.
 
 Embora esteja no começo da minha carreira com TI, estou super animada para colaborar em projetos legais, aprender com a comunidade e compartilhar o que sei. :) </p>
 
