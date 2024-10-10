@@ -52,6 +52,12 @@ Embora esteja no começo da minha carreira com TI, estou super animada para cola
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vuejs" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
 ###
