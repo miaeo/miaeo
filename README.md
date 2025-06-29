@@ -6,7 +6,7 @@
 <div align="center">
   <a href = "mailto:mirahonoratto@gmail.com"><img src="https://i.postimg.cc/59mKYzZS/gmail.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miranda-honorato/" target="_blank"><img src="https://i.postimg.cc/FRG9BRB5/linkedin.png" target="_blank"></a> 
-  <a href="https://instagram.com/alexazinh" target="_blank"><img src="https://i.postimg.cc/MGGL0mQS/INSTAGRAM.png" target="_blank"></a>
+  <a href="https://instagram.com/miaumico" target="_blank"><img src="https://i.postimg.cc/MGGL0mQS/INSTAGRAM.png" target="_blank"></a>
   
 </div>
 
