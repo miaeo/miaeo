@@ -72,7 +72,7 @@ Embora esteja no começo da minha carreira com TI, estou super animada para cola
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://cdn.simpleicons.org">cdn.simpleicons</a>, <a href="https://cdn.jsdelivr.net">cdn.jsdelivr</a>, <a href="https://skillicons.dev">skillicons.dev</a>.
+  - Badges by <a href="https://skillicons.dev">skillicons.dev</a>.
   - Developer vector created by @menheramen on <a href="https://picrew.me/en/">picrew</a>.
  
   <div align="right">Made with 💜 by <a href="https://github.com/miaeo">miaeo</a>.</div>
