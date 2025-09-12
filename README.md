@@ -26,9 +26,12 @@
 
 ###
 
-<p align="left">✿ Sou apaixonada por tecnologia e adoro aprender coisas novas. Atualmente, estou explorando o mundo do desenvolvimento web, brincando com HTML, CSS e dando meus primeiros passos com java e typescript.
+<p align="left">✿ Desenvolvedora Full Stack apaixonada por tecnologia e inovação. Tenho experiência com JavaScript e Java, além de conhecimento em Cloud Computing.
+Sou uma pessoa que busca sempre se aprimorar, aprendendo novas ferramentas e explorando formas de aplicar a tecnologia em soluções criativas e eficientes.
 
-Embora esteja no começo da minha carreira com TI, estou super animada para colaborar em projetos legais, aprender com a comunidade e compartilhar o que sei. 💖 </p>
+Minha facilidade de comunicação e adaptação me permite aprender rapidamente e colaborar em projetos que geram impacto positivo.
+
+ 💖 </p>
 
 ###
 
