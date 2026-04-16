@@ -54,6 +54,10 @@ Embora esteja no começo da minha carreira com TI, estou super animada para cola
   <img src="https://skillicons.dev/icons?i=vuejs" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="figma logo"  />
 </div>
 
 ###
